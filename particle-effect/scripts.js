@@ -4,7 +4,7 @@ canvas.width = window.innerWidth
 canvas.height = window.innerHeight
 ctx.fillStyle = 'green'
 ctx.strokeStyle = 'white'
-ctx.lineWidth = 1
+ctx.lineWidth = 1.5
 // const gradient = ctx.clearLinearGradient(0,0,canvas.width,canvas.height)
 //  gradient.addColorStop(0,'white')
 //  gradient.addColorStop(0.5,'magenta')
